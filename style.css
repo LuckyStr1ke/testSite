@@ -1,0 +1,60 @@
+
+body {
+    padding: 10px;
+	font-family: sans-serif;	
+	background: url("sources/img/bg.jpeg");
+}
+	
+img {
+text-align: center;
+}	
+
+.headimage {
+	background: url("sources/img/headlk.jpg") repeat-x;
+}
+
+.block-head{
+	height: 500px;
+	width: 400px;
+    left: 50%;
+    border-radius: 5px;
+    box-shadow: 1px 1px 3px #999999;
+}
+.block {
+	height: 500px;
+	width: 400px;
+    margin: 10px;
+    border-radius: 5px;
+	background-position: 50%;
+    box-shadow: 1px 1px 3px #999999;
+}	
+
+.headpic{
+	background-image: url("sources/img/headlk.jpg");
+    background-repeat: no-repeat;
+/*	background: url("sources/img/headlk.jpg") no-repeat;*/
+}
+
+.zabava{
+	background: url("sources/img/zabava.jpg") no-repeat;
+}
+
+.vanzab{
+	background: url("sources/img/lk.jpg") no-repeat;
+}
+
+.vodnoy{
+	background: url("sources/img/vodnoy.jpg") no-repeat;
+}
+
+.babki{
+	background: url("sources/img/babki.jpg") no-repeat;
+}
+
+.polkan{
+	background: url("sources/img/polkan.jpg") no-repeat;
+}
+
+.tsar{
+	background: url("sources/img/tsar.jpg") no-repeat;
+}
