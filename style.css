@@ -1,14 +1,18 @@
 
 body {
-    padding: 10px;
+    	padding: 10px;
 	font-family: sans-serif;	
 	background: url("sources/img/bg.jpeg");
 }
 	
 img {
-text-align: center;
+	text-align: center;
 }	
 
+footer {
+	font-size: 8px;
+	color: gray;
+}
 .headimage {
 	background: url("sources/img/headlk.jpg") repeat-x;
 }
