@@ -3,6 +3,7 @@ body {
     	padding: 10px;
 	font-family: sans-serif;	
 	background: url("sources/img/bg.jpeg");
+	max-width: 100%;
 }
 	
 img {
