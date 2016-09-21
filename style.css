@@ -23,7 +23,10 @@ footer {
 	color: gray;
 }
 .headimage {
+	position: absolute;
 	background: url("sources/img/headlk.jpg") repeat-x;
+	border-radius: 5px;
+    box-shadow: 1px 1px 3px #999999;
 }
 
 .block-head{
