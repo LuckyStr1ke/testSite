@@ -24,7 +24,7 @@ footer {
 }
 .headimage {
 	/*position: absolute;*/
-	background: url("sources/img/headlk.jpg") repeat-x center;
+	background: url("sources/img/lkheader.jpg") repeat-x center;
 	background-size: cover;
 	border-radius: 5px;
     	box-shadow: 1px 1px 3px #999999;
