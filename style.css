@@ -42,7 +42,8 @@ footer {
     	margin: 5px;
     	border-radius: 5px;
     	box-shadow: 1px 1px 3px #999999;
-    	left: 50%;
+    	background-position: 0px;
+
 }	
 
 .headpic{
