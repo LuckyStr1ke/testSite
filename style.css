@@ -32,9 +32,8 @@ footer {
 }
 
 .semiopacity {
-    background: #0078c9; /* Цвет фона */
-    padding: 5px; /* Поля вокруг текста */
+    background: rgba(255,255,255,0.8);
     opacity: 0.7; /* Полупрозрачный фон */
     filter: alpha(Opacity=70); /* Прозрачность в IE */
-    color: #fff; /* Цвет текста */
+    
    }
